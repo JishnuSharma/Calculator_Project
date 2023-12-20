@@ -4,5 +4,5 @@ A fully functioning calculator made with JavaScript. The interface is designed t
 
 ## Usage:
 
-The calculator can be easily accessed using the following website link: 
+The calculator can be easily accessed using the following website link: <br>
 [Link Text](https://calprojs.netlify.app/) 
